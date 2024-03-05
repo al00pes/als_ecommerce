@@ -51,7 +51,7 @@ O repositório está estruturado da seguinte forma:
 - `data/`: Contém os arquivos CSV com os dados brutos.
 - `notebooks/`: Contém o Jupyter Notebook utilizado para o tratamento dos dados.
 - `output/`: Contém o arquivo CSV gerado após o tratamento dos dados.
-- `dashboard/`: Contém os arquivos relacionados ao dashboard criado no BI.
+- `pacotes_financeiro.pbix/`: Contém os arquivos relacionados ao dashboard criado no BI.
 
 ## Como Executar
 
