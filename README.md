@@ -1,11 +1,11 @@
-# Projeto de Análise de Dados de E-commerce
+ # Projeto de Análise de Dados de E-commerce 📊
 
 Este projeto consiste na análise de dados de uma empresa de e-commerce que realiza a logística até o cliente final. 
 Os dados foram tratados utilizando Jupyter Notebook com a linguagem Python, 
 fazendo uso da biblioteca Pandas para o tratamento de dados em formato CSV e realizaçao a importação dos dados
 no power BI para a construção de dashboard interativo.
 
-## Objetivo
+## Objetivo 🎯
 
 O objetivo deste projeto é realizar uma análise financeira dos pagamentos dos motoristas da empresa, mostrando os valores pagos por cidade e por galpão. Além disso, serão apresentados dados como ticket médio, valor total e quantidade de pacotes entregues por galpão. Também será mostrada a série histórica dos valores pagos aos motoristas por dia durante um período de 20 dias.
 
