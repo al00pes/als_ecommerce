@@ -48,18 +48,10 @@ Após o tratamento dos dados, foi gerado um arquivo CSV contendo os dados consol
 
 O repositório está estruturado da seguinte forma:
 
-- `data/`: Contém os arquivos CSV com os dados brutos.
-- `notebooks/`: Contém o Jupyter Notebook utilizado para o tratamento dos dados.
-- `output/`: Contém o arquivo CSV gerado após o tratamento dos dados.
+- `data/`: Contém os arquivos CSV com os dados brutos. ( Não foi possivel subir o arquivo)
+- ` tratamento_dados/`: Contém o Jupyter Notebook utilizado para o tratamento dos dados.
+- `output/`: Contém o arquivo CSV gerado após o tratamento dos dados. ( Não foi possivel subir o arquivo)
 - `pacotes_financeiro.pbix/`: Contém os arquivos relacionados ao dashboard criado no BI.
-
-## Como Executar
-
-Para executar o projeto localmente, siga as etapas abaixo:
-
-1. Clone este repositório: `git clone https://github.com/seuusuario/seuprojeto.git`
-2. Instale as dependências: `pip install pandas`
-3. Navegue até o diretório `notebooks/` e execute o Jupyter Notebook.
 
 ## Contribuições
 
